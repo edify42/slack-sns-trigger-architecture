@@ -1,0 +1,13 @@
+{
+  "name": "slack-sns-trigger-architecture",
+  "version": "1.0.0",
+  "description": "serverless sns listener with slack api to do stuff with trigger_id",
+  "main": "index.js",
+  "repository": "github.com/edify42/slack-sns-trigger-architecture",
+  "author": "ed kim <ekim8015@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "serverless": "^2.54.0"
+  }
+}
