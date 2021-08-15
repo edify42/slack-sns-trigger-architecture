@@ -9,6 +9,8 @@
   "private": true,
   "devDependencies": {
     "serverless": "^2.54.0",
-    "serverless-apigateway-service-proxy": "^1.14.0"
-  }
+    "serverless-apigateway-service-proxy": "^1.14.0",
+    "typescript": "^4.3.5"
+  },
+  "packageManager": "yarn@1.22.11"
 }

@@ -8,3 +8,6 @@ package: install
 
 install:
 	yarn
+
+clean:
+	rm -rf node_modules .serverless
